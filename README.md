@@ -19,6 +19,8 @@
 
 ## MY CONTACTS
 [<img src="./svg/telegram.svg">](https://t.me/michelle_jdia)
+[<img src="./svg/twitter.svg">](https://t.me/twitter.com/Michelle_Jdia)
+[<img src="./svg/vk-1">](https://t.me//vk.com/michelle.jdia)
 [<img src="./svg/gmail.svg" width="90px" height="90px">](mailto:mj.sy.ru@gmail.com)
 
 <div>
