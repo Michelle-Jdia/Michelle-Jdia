@@ -10,6 +10,7 @@
 ## MY TECHNOLOGY STACK AND TOOLS
 ![HTML](/svg/html-5.svg)
 ![CSS](/svg/css3.svg)
+![SASS](/svg/sass-1.svg)
 ![JS](/svg/JS.svg)
 ![React](/svg/react.svg)
 ![Git](/svg/git.svg)
