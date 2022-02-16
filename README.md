@@ -14,6 +14,9 @@
 ![JS](/svg/JS.svg)
 ![React](/svg/react.svg)
 ![Git](/svg/git.svg)
+![Twig](/svg/twig.jpg)
+![Vue Js](/svg/vue.svg)
+![Webpack](/svg/webpack.png)
 
 
 
