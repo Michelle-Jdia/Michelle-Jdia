@@ -13,10 +13,10 @@
 ![SASS](/svg/sass.svg)
 ![JS](/svg/JS.svg)
 ![React](/svg/react.svg)
-![Git](/svg/git.svg)
-![Twig](/svg/twig.svg)
 ![Vue Js](/svg/vuejs.svg)
+![Twig](/svg/twig.svg)
 ![Webpack](/svg/webpack.svg)
+![Git](/svg/git.svg)
 
 
 
