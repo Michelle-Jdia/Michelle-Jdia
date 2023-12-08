@@ -1,9 +1,8 @@
 ### Hi there 👋 My name is Michelle. 
 ### I'm Front-end developer since 2018.
 
-* I'm responsible, motivated, easy-to-learn Frontend Developer.
-* I like programming because it's interesting for me to see the result of the work I've done and to make user interface live and friendly.
-* I am currently looking for a job as a Front-end developer.
+* I'm a responsible, motivated, easy-to-learn Frontend Developer.
+* I like programming because it's interesting for me to see the result of the work I've done and to make the user interface live and friendly.
 * I will be glad to share my experience and learn from other developers.
 
 
